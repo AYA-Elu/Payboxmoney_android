@@ -28,7 +28,7 @@ repositories {
 2. Добавьте зависимость:
 ```
 dependencies {
-    implementation 'com.github.PayBox:SDK_Android_input:1.0.3.7@aar'
+    implementation 'com.github.AYA-Elu:Payboxmoney_android:1.0.3.7@aar'
 }
 ```
 **Инициализация SDK:**
